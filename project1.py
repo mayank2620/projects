@@ -1,4 +1,4 @@
-2print("""1. HORIZONTAL
+print("""1. HORIZONTAL
 2.VERTICAL""")
 a=int(input("ENTER YOUR CHOICE:"))#choice for representatio
 if(a==1 or a==2):
